@@ -1,15 +1,9 @@
-Here’s a clean and professional README file you can use for a Calculator Website project:
-
-
----
-
 🧮 Calculator Website
 
 A simple and responsive web-based calculator built using HTML, CSS, and JavaScript.
 This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division — with a clean, modern interface suitable for both desktop and mobile devices.
 
 
----
 
 🚀 Features
 
@@ -25,9 +19,6 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 
 ✅ Error handling for invalid inputs (like division by zero)
 
-
-
----
 
 🛠 Technologies Used
 
@@ -45,7 +36,7 @@ JavaScript (ES6) – handles logic and calculations
 
 calculator-website/
 │
-├── index.html        # Main HTML file
+├── Calc.html        # Main HTML file
 ├── style.css         # External CSS for design
 └── script.js         # JavaScript file for functionality
 
@@ -55,31 +46,21 @@ calculator-website/
 ⚙ How to Use
 
 1. Clone or download the project:
-
-git clone https://github.com/yourusername/calculator-website.git
-
-
+https://codinguru2.github.io/odeAlpha_calc-U-Late/calc.html
 2. Open the project folder.
-
-
-3. Double-click on index.html to open it in your browser.
-
-
+3. Double-click on calc.html to open it in your browser.
 4. Start calculating!
 
 
-
-
----
 
 💡 Example Operations
 
 Input	Output
 
-7 + 3	10
-9 × 5	45
-10 ÷ 2	5
-8 − 4	4
+7 + 3=10
+9 × 5=45
+10 ÷ 2=5
+8 − 4=4
 
 
 
@@ -87,9 +68,9 @@ Input	Output
 Tamilore Adesokan
 Front-End Web Developer
 
-📧 Email: yourname@example.com
-🌐 Portfolio: yourportfolio.com
-🐙 GitHub: github.com/yourusername
+📧 Email: Tammyfx23@gmail.com
+🌐 Portfolio: https://my-portfiliowebsite.vercel.app/port.html
+🐙 GitHub: https://github.com/Codinguru2
 
 
 
